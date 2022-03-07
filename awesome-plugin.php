@@ -23,6 +23,8 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       awesome-plugin
  * Domain Path:       /languages
+ * GitHub Plugin URI: afragen/git-updater
+ *  GitHub Plugin URI: https://github.com/afragen/git-updater
  */
 
 // If this file is called directly, abort.
